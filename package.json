@@ -11,7 +11,7 @@
   "license": "MIT-0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/awslabs/agents-for-amazon-bedrock-blueprints.git"
+    "url": "https://github.com/MightyBear/agents-for-amazon-bedrock-blueprints.git"
   },
   "engines": {
     "node": ">=12"
